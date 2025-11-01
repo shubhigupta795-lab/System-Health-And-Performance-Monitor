@@ -25,3 +25,10 @@ It continuously tracks **CPU usage, memory usage, and disk space** and provides 
 1. Clone the repository:
    ```bash
    git clone https://github.com/shubhigupta795-lab/System-Health-And-Performance-Monitor.git
+
+## Execution Output
+
+Below are screenshots of the project running successfully:
+
+![Execution Screenshot 1](pic%201.jpeg)
+![Execution Screenshot 2](pic%202.jpeg)
