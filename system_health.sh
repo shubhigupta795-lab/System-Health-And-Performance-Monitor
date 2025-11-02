@@ -1,6 +1,6 @@
 #!/bin/bash
 # ======================================================
-# 🖥️  SYSTEM HEALTH AND PERFORMANCE MONITOR (Unix)
+#   SYSTEM HEALTH AND PERFORMANCE MONITOR (Unix)
 # ======================================================
 
 # Colors
